@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(0,0,0,0.8);
+    background-position: relative;
+    background-image: url(../img/background.jpg);
+    min-height: 100%;
+    background-size: auto;
+    
+}
+
+body .img {
+    filter:brightness(0.1);
+}
+
+#formConfig {
+    background-color: #EBEBEB;
+    color: rgb(0, 0, 0);
+
+}
+
+li {
+    list-style: none;
+}
+
